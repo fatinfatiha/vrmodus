@@ -19,7 +19,6 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css' />
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="/css/bootstrap.min.css" />
-<link rel="stylesheet" href="/css/bootstrap-theme.min.css" />
 <link rel="stylesheet" href="/css/stylesheet.css" />
 
 <!-- JS -->
