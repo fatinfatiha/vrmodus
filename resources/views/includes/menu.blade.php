@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="{{ URL::to('/') }}">
-                <img src="img/vrLogo2.png" alt="VR Modus" height="50" />
+                <img src="img/vrlogo2.png" alt="VR Modus" height="50" />
             </a>
         </div>
         <div class="navbar-collapse collapse">
