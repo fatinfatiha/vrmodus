@@ -1,12 +1,13 @@
 @extends('masterLayout.master')
 @section('content')
-<section class="section-home slide-home text-home">
-         <div class="container">
-                <div class="row">
-            </div>
-          </div>
-</section>
+
 <div class="container">
+  <div class="section-home slide-home text-home">
+    <img src="/img/slideImg/VR1.png" alt="" class="img-responsive" />
+    <!-- <div class="row"> -->
+      <h1>Page 1</h1>
+    <!-- </div> -->
+  </div>
    <div class="row img-logo">
          <img src="img/vrLogo.png" alt="logo" class="img-responsive center-block"/>
    </div>

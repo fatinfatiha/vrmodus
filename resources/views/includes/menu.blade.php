@@ -1,4 +1,4 @@
-<div class="navbar navbar-inverse navbar-fixed-top">
+<div class="navbar navbar-fixed-top navbar-default">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="{{ URL::to('/') }}">
-                <img src="img/vrlogo2.png" alt="VR Modus" height="50" />
+                <img src="img/logo/vrmoduslogo.png" alt="VR Modus" height="50" />
             </a>
         </div>
         <div class="navbar-collapse collapse">
