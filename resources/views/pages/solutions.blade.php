@@ -5,75 +5,58 @@
   <img src="/img/slideImg/VR3.png" alt="" class="img-responsive" />
 
    <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <p>
-          We are at the forefront of the virtual reality revolution and our solutions help<br/>
-          you tell your stories in this new and exciting medium, engaging people like never<br/>
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h3>
+          We are at the forefront of the virtual reality revolution and our solutions help
+          you tell your stories in this new and exciting medium, engaging people like never
           before.<br/>
-
           <br/>
-          Imagine having the ability to take your audience on an interactive journey into a <br/>
+          Imagine having the ability to take your audience on an interactive journey into a
           virtual world of your creation.
-        </p>
+        </h3>
      </div>
   </div>
-   <div class="row">
-      <div class="col-md-5 col-md-offset-1 border-grey"></div>
-   </div>
+  <div class="row">
+        <div class=" col-md-5  col-md-offset-1">
+         <hr/>
+     </div>
+  </div>
 
     <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Immersive Display Suite</h3>
-      </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-6 col-md-offset-3  text-center">
-          <h5>The latest sales technology for fully immersive property visualisations.</h5>
-       </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <p>
-          In today's real estate industry, technology is playing a more vital role than ever.<br>
-          Utilizing the power of the internet, Virtual Tours can give you the edge you need <br>
-          to stay ahead in this fast paced industry. We make it easy for you to give your <br>
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <h2><span> Immersive</span> Display Suite</h2>
+          <h3><strong> The latest sales technology for fully immersive property visualisations.</strong>
+          In today's real estate industry, technology is playing a more vital role than ever.
+          Utilizing the power of the internet, Virtual Tours can give you the edge you need
+          to stay ahead in this fast paced industry. We make it easy for you to give your
           clients the most powerful marketing tool available today.
-        </p>
+        </h3>
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-md-6 text-center">
-        <div class="row">
-          <img src="/img/icon/VR19.png" width="50" />
-        </div>
-        <div class="row">
+    <!-- <div class="row">
+      <div class="col-md-6">
+          <img src="/img/icon/VR19.png" class="img-responsive center-block " width="50" />
           <div class="text-center">
-            <p>
+            <h3>
               Properties can be <br>
               shown 24/7/365 to an <br>
               unlimited number of <br>
               prospective buyers.
-            </p>
+            </h3>
           </div>
         </div>
-      </div>
-      <div class="col-md-6 text-center">
-        <div class="row">
-          <img src="/img/icon/VR19.png" width="50"/>
-        </div>
-        <div class="row">
+      <div class="col-md-6">
+          <img src="/img/icon/VR19.png" class="img-responsive center-block" width="50"/>
           <div class="text-center">
-            <p>
+            <h3>
               The number of prospective <br>
               home buyers that begin <br>
               their search for a new <br>
               residence or second home <br>
               online is increasing at an <br>
               overwhelming rate.
-            </p>
+            </h3>
           </div>
         </div>
       </div>
@@ -291,7 +274,7 @@
           the OFI virtual experience to life on their existing platforms and marketing campaigns.
         </p>
       </div>
-    </div>
+    </div> -->
 
  </div>
 @stop

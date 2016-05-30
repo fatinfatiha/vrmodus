@@ -29,10 +29,6 @@ h3, h4 {
     font-family: 'Open Sans' sans-serif;
     line-height: 35px;
 }
-.border-grey{
-  border: 1px solid rgba(85,85,85,0.1);
-}
-
 /*------------------------------------------*/
 /*			 11 - Navbar
 /*------------------------------------------*/
@@ -214,6 +210,56 @@ hr {
       line-height: 35px;
       padding-bottom: 50px;
     }
+
+
+/*------------------------------------------*/
+/*			 11 - Services Styles
+/*------------------------------------------*/
+
+    .services-comments {
+        /*background-image: url("../images/image_bg.png");*/
+        background-position: center 118px;
+        background-repeat: no-repeat;
+        margin-bottom: 25px;
+    }
+
+    .services-comments img {
+      background:rgba(0, 0, 0, 0);
+      border: 1px solid rgba(0, 0, 0, 0);
+      height: 205px;
+      padding: 8px;
+      width: 205px;
+      transition: all 0.9s ease 0s;
+      -moz-transition: all 0.9s ease 0s;
+      -webkit-transition: all 0.9s ease 0s;
+      -o-transition: all 0.9s ease 0s;
+    }
+
+    .services-comments h3 {
+      margin-top: 5px;
+      font-weight: 400;
+      padding: 0 40px;
+      font-weight: bold;
+    }
+
+
+    .services-comments h4 {
+      font-weight: 500;
+      margin-top: 0px;
+    }
+
+    .services-comments h6 {
+      font-weight: 500;
+     line-height:20px;
+      margin-top: 0px;
+      color: #fff;
+    }
+
+    .services-comments h4  span {
+      font-weight: 700;
+      font-style: oblique;
+    }
+
 /*------------------------------------------*/
 /*			 11 - Footer Styles
 /*------------------------------------------*/
