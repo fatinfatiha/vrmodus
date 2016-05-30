@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'Dincond Bold';
     src: url('../fonts/ufonts.com_dincond-bold-opentype.otf');
@@ -13,6 +12,10 @@
    url('../fonts/dinregularwebfont/dinregularwebfont.woff') format('woff'),
    url('../fonts/dinregularwebfont/dinregularwebfont.ttf') format('truetype');
 }
+/*------------------------------------------*/
+/*			General
+/*------------------------------------------*/
+
 body {
     font-family: 'Open Sans' sans-serif;
     -webkit-text-size-adjust: 100%;
@@ -24,12 +27,8 @@ body {
 }*/
 h3, h4 {
     font-family: 'Open Sans' sans-serif;
+    line-height: 35px;
 }
-
-/*------------------------------------------*/
-/*			General
-/*------------------------------------------*/
-
 .border-grey{
   border: 1px solid rgba(85,85,85,0.1);
 }

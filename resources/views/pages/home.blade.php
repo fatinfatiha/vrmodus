@@ -10,38 +10,42 @@
     </div>
     </div>
   </div> -->
-   <div class="row img-logo">
-         <img src="img/vrLogo.png" alt="logo" class="img-responsive center-block"/>
-   </div>
-   <div class="row">
-    <div class=" col-md-6 col-md-offset-3">
-      <div class="home-text">
-       <h1>Expanding Your Vision</h1>
+  <div class="row">
+        <div class=" col-md-5  col-md-offset-1 home-text">
+             <h1>Expanding <span>Your</span>  Vision. </h1>
+             <h3>We’re in the business of bringing a greater impact and effect for people to experience a location as if they’re there.</h3>
      </div>
-   </div>
+     <div class=" col-md-3 col-md-offset-2 home-text">
+             <img src="img/icon/VR6.png" alt="icons" class="img-responsive center-block"/>
+     </div>
   </div>
-   <div class="row">
-    <div class=" col-md-6 col-md-offset-3  text-center">
-         <h3>You, as an individual or organization can use our brand to certify the knowledge, skills and talents of others. Doing so will enchance your credibility. </h3>
+  <div class="row">
+        <div class=" col-md-5  col-md-offset-1">
+         <hr/>
+     </div>
+  </div>
+  <div class="row">
+    <div class=" col-md-2 col-md-offset-1 home-icon1">
+            <img src="img/icon/VR8.png" alt="icons" class="img-responsive center-block"/>
+    </div>
+    <div class=" col-md-2 home-icon2">
+            <img src="img/icon/VR7.png" alt="icons" class="img-responsive center-block"/>
+    </div>
+    <div class=" col-md-6 home-text">
+         <h2>our goal is to provide individuals and businesses affordable virtual reality and 360° video & photography solutions.</h2>
  </div>
-</div>
-<div class="row img-icon">
-      <img src="img/home/VRmodusPack-04.png" alt="icons" class="img-responsive center-block"/>
-</div>
-<div class="row img-logo">
-      <img src="img/home/VRmodusPack-06.png" alt="icons" class="img-responsive center-block"/>
-      <div class=" col-md-6 col-md-offset-3  text-center">
-           <h3>You, as an individual or organization can use our brand to certify the knowledge, skills and talents of others. Doing so will enchance your credibility. </h3>
-   </div>
-</div>
-<div class="row img-icon">
-      <img src="img/home/VRmodusPack-04.png" alt="icons" class="img-responsive center-block"/>
-</div>
+  </div>
+  <div class="row">
+        <div class=" col-md-5  col-md-offset-6">
+         <hr/>
+     </div>
+  </div>
+
 <div class="row">
-      <div class=" col-md-6 home-text">
-           <h2>You, as an individual or organization can use our brand to certify the knowledge, skills and talents of others. Doing so will enchance your credibility. </h2>
+      <div class=" col-md-5  col-md-offset-1 home-text1">
+           <h2>The ways in which panoramic video can be used are as exhaustive as your imagination. </h2>
    </div>
-   <div class=" col-md-6" style="margin-bottom:50px;">
+   <div class=" col-md-5 home-text " style="margin-bottom:50px;" >
            <img src="img/home/VRmodusPack-05.png" alt="icons" class="img-responsive center-block"/>
    </div>
 

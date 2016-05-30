@@ -10,7 +10,17 @@
     </div>
     </div>
   </div> -->
-   <div class="row img-logo">
+  <div class="row">
+        <div class=" col-md-6 home-text">
+             <h2>Expanding Your Vision </h2>
+             <p>We’re in the business of bringing a greater impact and effect for people to experience a location as if they’re there.</p>
+     </div>
+     <div class=" col-md-6" style="margin-bottom:50px;">
+             <img src="img/home/VRmodusPack-05.png" alt="icons" class="img-responsive center-block"/>
+     </div>
+  </div>
+
+   <!-- <div class="row img-logo">
          <img src="img/vrLogo.png" alt="logo" class="img-responsive center-block"/>
    </div>
    <div class="row">
@@ -45,6 +55,6 @@
            <img src="img/home/VRmodusPack-05.png" alt="icons" class="img-responsive center-block"/>
    </div>
 
-</div>
+</div> -->
  </div>
 @stop
