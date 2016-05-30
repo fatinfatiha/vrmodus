@@ -17,7 +17,7 @@
 <!-- CSS -->
 <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css' />
-<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="img/logo/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="/css/bootstrap.min.css" />
 <link rel="stylesheet" href="/css/stylesheet.css" />
 

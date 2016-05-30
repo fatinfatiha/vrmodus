@@ -12,10 +12,11 @@
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav pull-right">
-                <li><a href="/">HOME</a></li>
-                <li><a href="solutions">SOLUTIONS</a></li>
-                <li><a href="work">WORK</a></li>
-                <li><a  href="about">ABOUT</a></li>
+                <li><a href="{{ URL::to('/') }}">HOME</a></li>
+                <li><a href="{{ URL::to('solutions') }}">SOLUTIONS</a></li>
+                <li><a href="{{ URL::to('services') }}">SERVICES</a></li>
+                <li><a href="{{ URL::to('work') }}">WORK</a></li>
+                <li><a href="{{ URL::to('about') }}">ABOUT</a></li>
             </ul>
         </div>
     </div>
