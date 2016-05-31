@@ -128,19 +128,61 @@
        </div>
     </div>
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
-        <h1>Some facts</h1>
+      <div class="col-md-8 col-md-offset-1">
+        <h1>Some Facts:</h1>
       </div>
     </div>
     <div class="row">
 <div class="col-md-10 col-md-offset-1">
 <ul class="list-unstyled solution-line">
- <li><img src="/img/icon/VR19.png" width="50"/> High quality property virtual tours are an ideal means by which potential buyers can easily view a <br> &nbsp &nbsp  &nbsp &nbsp  &nbsp property in its fullness prior to viewing it in person. </li>
- <li><img src="/img/icon/VR19.png" width="50" /> In addition to attracting a greater number of ‘qualified viewers’ to look around the property, a virtual <br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  tour  will also reduce the amount of wasted viewings i.e. those  customers who could have seen the <br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  property was not right for them had they been able to view a virtual tour beforehand.</li>
- <li><img src="/img/icon/VR19.png" width="50"/> Data and research has shown that people looking for new homes are spending 60% longer on<br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  project profiles with virtual tours than those without.</li>
- <li><img src="/img/icon/VR19.png" width="50"/> Virtual tours technology allows you to get a deeper understanding of the layout, size and interior<br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  design of a property before a person plans for a  schedule.</li>
- <li><img src="/img/icon/VR19.png" width="50"/>By getting realistic view of the property – on people’s own time – they can work out whether or not it’s<br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  worth visiting on the weekend.</li>
- <li><img src="/img/icon/VR19.png" width="50"/>If people like what they see, they can make the most of the time spent at OFI (Open For Inspection)<br> &nbsp &nbsp  &nbsp &nbsp  &nbsp  by preparing questions and points of interest beforehand.</li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50"/></div>
+   <div class="col-md-11">
+    High quality property virtual tours are an ideal means by which potential buyers can easily view a property in its fullness prior to viewing it in person.
+  </div>
+</div>
+</li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50" /></div>
+      <div class="col-md-11">
+    In addition to attracting a greater number of ‘qualified viewers’ to look around the property, a virtual   tour  will also reduce the amount of wasted viewings i.e. those  customers who could have seen the  property was not right for them had they been able to view a virtual tour beforehand.
+  </div>
+</div>
+</li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50"/></div>
+      <div class="col-md-11">
+         Data and research has shown that people looking for new homes are spending 60% longer on  project profiles with virtual tours than those without.
+       </div>
+     </div>
+   </li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50"/> </div>
+      <div class="col-md-11">
+        Virtual tours technology allows you to get a deeper understanding of the layout, size and interior design of a property before a person plans for a  schedule.
+      </div>
+    </div>
+  </li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50"/></div>
+      <div class="col-md-11">
+        By getting realistic view of the property – on people’s own time – they can work out whether or not it’s worth visiting on the weekend.
+      </div>
+    </div>
+  </li>
+ <li><div class="row">
+       <div class="col-md-1">
+   <img src="/img/icon/VR19.png" width="50"/></div>
+      <div class="col-md-11">
+        If people like what they see, they can make the most of the time spent at OFI (Open For Inspection) by preparing questions and points of interest beforehand.
+      </div>
+    </div>
+  </li>
      </ul>
 </div>
 </div>
