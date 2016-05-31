@@ -2,14 +2,10 @@
 @section('content')
 
 <div class="container">
-  <!-- <div class="section-img text-home"> -->
+    <div class="image">
     <img src="/img/slideImg/VR4.png" alt="" class="img-responsive" />
-    <!-- <div class="row">
-      <div class="carousel-caption">
-      <h1>Example headline.</h1>
-    </div>
-    </div>
-  </div> -->
+    <h2><span> Our Services</span></h2>
+  </div>    
   <div class="row about-text">
     <h1>Our <span>Services</span></h1>
         <div class=" col-md-5 col-md-offset-1 text-justify">

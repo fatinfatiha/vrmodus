@@ -2,12 +2,10 @@
 @section('content')
 
 <div class="container">
-      <div class="row">
+  <div class="image">
         <img src="/img/slideImg/VR2.png" alt="" class="img-responsive" />
-      <!-- <div class="carousel-caption">
-        <h1>Example headline.</h1>
-      </div> -->
-    </div>
+          <h1><span> About Us</span></h1>
+        </div>
    <div class="row">
     <div class=" col-md-10 col-md-offset-1 about-text text-center">
        <h3>VR Modus have a vision of expanding the virtual reality world by producing high quality 360° video & VR content for any market’s demand. Our goal is to create experiences using 360° video services that can be viewed on any computer, cell phone, mobile devices and head-mounted display like the Oculus Rift or the Samsung Gear VR.

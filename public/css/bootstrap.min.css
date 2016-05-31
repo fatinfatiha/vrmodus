@@ -1488,7 +1488,7 @@ hr {
 }
 
 .h3, h3 {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 .h4, h4 {
@@ -4892,12 +4892,12 @@ select[multiple].input-group-sm > .form-control, select[multiple].input-group-sm
     }
 
         .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-            color: #333;
+            color: #fff;
             background-color: transparent;
         }
 
     .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-        color: #555;
+        color: #000;
         background-color: #e7e7e7;
     }
 
